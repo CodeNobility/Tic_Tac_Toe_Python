@@ -1,0 +1,2 @@
+# Tic Tac Toe Game
+Tic Tac Toe Game is a simple Python script that allows you to play the classic Tic Tac Toe game against another player or against the computer. This game provides a fun way to challenge your strategic thinking and compete with friends.
